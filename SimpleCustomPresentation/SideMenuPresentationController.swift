@@ -3,7 +3,7 @@
 //  SimpleCustomPresentation
 //
 //  Created by Brad Forsyth on 3/14/18.
-//  Copyright © 2018 Bloom Built Inc. All rights reserved.
+//  Copyright © 2018 Brad Forsyth. All rights reserved.
 //
 
 import UIKit
