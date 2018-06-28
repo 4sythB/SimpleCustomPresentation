@@ -37,6 +37,10 @@ class MainViewController: UIViewController {
             self.present(self.sideMenu, animated: true, completion: nil)
         }
     }
+    
+    @IBAction func showMenuButtonTapped(_ sender: Any) {
+        self.present(self.sideMenu, animated: true, completion: nil)
+    }
 }
 
 extension MainViewController: UIViewControllerTransitioningDelegate {
